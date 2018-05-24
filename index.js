@@ -11,4 +11,4 @@ function test() {
 test();
 
 let img = document.creareElement('img');
-img.src = '';
+img.src = 'http://www.baidu.com';
