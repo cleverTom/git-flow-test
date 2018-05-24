@@ -9,3 +9,6 @@ function test() {
 }
 
 test();
+
+let img = document.creareElement('img');
+img.src = '';
